@@ -2,43 +2,20 @@
 
 I'm a passionate **.NET Backend Developer** with solid experience in **C#, ASP.NET Core**, and **SQL Server**.  
 I'm driven by building scalable and efficient web applications, and I’m looking for opportunities to grow into a **Middle Developer** role.
-
 ---
-
-### 🎯 Objective
-Motivated .NET Backend Developer seeking to contribute to the development of high-quality software solutions.  
-Eager to support the delivery of efficient, maintainable applications while enhancing my skills and collaborating with a professional development team.
-
----
-
 ### 🎓 Education
 **FPT University** (2020 - 2024)  
 Bachelor of Software Engineering  
 
 ---
 
-### 🛠 Skills
+### 📌 Featured Projects
 
-**Backend:**  
-- C#, ASP.NET Core, RESTful API, Entity Framework
+- [**GameUnity-Project-TopDown-G8**](https://github.com/ngandolh/GameUnity-Project-TopDown-G8)  
+  A top-down Unity game developed in C#. Focused on gameplay mechanics and team collaboration.
 
-**Frontend:**  
-- Razor Pages, Ajax, Bootstrap
+- [**Summer2024_PRN231_NET1716_GroupNoName**](https://github.com/ngandolh/Summer2024_PRN231_NET1716_GroupNoName)  
+  A full-stack project using .NET and JavaScript, forked and extended from a course base for advanced development practice.
 
-**Database:**  
-- SQL Server
-
-**Tools & Others:**  
-- Git, Cloudinary, Firebase, SignalR, Socket.io, Azure  
-- Unit Testing, Postman, Docker
-
----
-
-### 📫 Contact Me
-- Email: *[your-email@example.com]*
-- LinkedIn: *[your-linkedin-profile]*  
-- Portfolio (if any): *[your-website]*
-
----
 
 Thanks for visiting my profile! 😊

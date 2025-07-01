@@ -10,4 +10,15 @@ Bachelor of Software Engineering
 
 ---
 
+ Programming
+C# HTML JavaScript CSS SQL
+
+🧰 Frameworks and Libraries
+.NET WPF (.Net) Bootstrap Tailwind
+
+💻 Software and Tools
+Rider Visual Studio Visual Studio Code
+
+Git GitHub Desktop Source Tree Docker Postman
+
 Thanks for visiting my profile! 😊

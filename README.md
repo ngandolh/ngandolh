@@ -49,7 +49,7 @@ Bachelor of Software Engineering
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDat0809&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngandolh&layout=compact&theme=radical" />
 </p>
 
 Thanks for visiting my profile! 😊
